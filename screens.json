@@ -1,0 +1,269 @@
+{
+    "main": {
+        "title": "Ozon Design Community",
+        "description": "",
+        "telegramButton": {
+            "externalLink": "https://t.me/ozondesign"
+        },
+        "categories": [
+            {
+                "link": "https://www.youtube.com/FiqtBduNcEc",
+                "title": "Design Meetup 2024",
+                "subtitle": "Менеджер и дизайнер: драма длиною в продукт"
+            },
+            {
+                "link": "odc://podcasts",
+                "title": "Подкаст",
+                "subtitle": "Наш подкаст про карьерный рост, советы коллег и опыт в дизайн-индустрии"
+            },
+            {
+                "link": "https://youtu.be/PVSq1ZJWapI",
+                "title": "Design Meetup 2023",
+                "subtitle": "Дизайн продукта: путь до прода"
+            },
+            {
+                "link": "odc://videos",
+                "title": "Говорим",
+                "subtitle": "Интервью и выступления наших ребят на различных мероприятих"
+            },
+            {
+                "link": "odc://articles",
+                "title": "Пишем",
+                "subtitle": "Полезные статьи о дизайне, разработке и не только"
+            },
+            {
+                "link": "https://s.ozon.ru/V7186r5",
+                "title": "Гайд по текстам",
+                "subtitle": "Универсальный гайд по интерфейсным текстам от группы UX-редактуры"
+            },
+            {
+                "link": "https://job.ozon.ru",
+                "title": "Вакансии",
+                "subtitle": "Приходите к нам работать, мы всегда ищем классных ребят"
+            }
+        ]
+    },
+    "writing": {
+        "title": "Пишем",
+        "description": "Полезные статьи о дизайне, разработке и не только",
+        "articles": [
+            {
+                "title": "Как стать крутым продуктовым дизайнером в Ozon",
+                "subtitle": "",
+                "externalLink": "https://media.contented.ru/opyt/rabota/kak-stat-dizajnerom-v-ozon/",
+                "imageUrl": "",
+                "style": "pinned"
+            },
+            {
+                "title": "Как дизайнеры помогают заменить GitLab: что из этого получилось",
+                "subtitle": "Что из этого получилось",
+                "externalLink": "https://habr.com/ru/companies/ozontech/articles/796231/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Сам себе заказчик:",
+                "subtitle": "Как мы провели редизайн сервиса и вернули доверие пользователей",
+                "externalLink": "https://habr.com/ru/companies/ozontech/articles/736712/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Скажи что-нибудь на разрабском, Figma",
+                "subtitle": "",
+                "externalLink": "https://habr.com/ru/companies/ozontech/articles/746124/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Как сделать макеты удобнее для команды",
+                "subtitle": "",
+                "externalLink": "https://habr.com/ru/companies/ozontech/articles/767782/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Дорогая, что-то пошло не так",
+                "subtitle": "Гид по пустым состояниям и ошибкам + шаблоны на все случаи",
+                "externalLink": "https://habr.com/ru/companies/ozontech/articles/753022/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Дизайн-долг платежом красен: Улучшаем таблицы в большом продукте",
+                "subtitle": "Улучшаем таблицы в большом продукте",
+                "externalLink": "https://habr.com/ru/company/ozontech/blog/708162/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Смешать, но не взбалтывать:",
+                "subtitle": "добавляем видеообложки в ленту товаров",
+                "externalLink": "https://habr.com/ru/company/ozontech/blog/684192/",
+                "imageUrl": "",
+                "style": "common"
+            },
+            {
+                "title": "Figma: плагины для продуктового дизайна. Локальный топчик с видео-инструкцией",
+                "subtitle": "",
+                "externalLink": "https://habr.com/ru/company/ozontech/blog/557178/",
+                "imageUrl": "",
+                "style": "common"
+            } 
+        ]
+    },
+    "podcasts": {
+        "title": "Подкаст о дизайне",
+        "description": "Встретились однажды три дизайнера на диване и... записали подкаст, в котором обсуждают карьерный рост, дают советы, холиварят и приглашают коллег по индустрии поделиться опытом.",
+        "seasons": [
+            {
+                "seasonNumber": "2",
+                "previewImageUrl": "https://example.com/preview/season2.png",
+                "episodes": [
+                    {
+                        "title": "Ну почему так долго! Как дизайнеру лучше понять мобильную разработку",
+                        "date": "2023-12-04",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/119838447"
+                    },
+                    {
+                        "title": "Детачить или не детачить: вот в чём вопрос",
+                        "date": "2023-11-16",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/119314428"
+                    },
+                    {
+                        "title": "Продуктовый дизайнер — мозговой слизень продакта",
+                        "date": "2023-10-26",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/118688128"
+                    },
+                    {
+                        "title": "Инфографика карточек товара: боль или благо",
+                        "date": "2023-10-12",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/118237313"
+                    },
+                    {
+                        "title": "Исследований мало не бывает: как улучшать культуру исследований в компании",
+                        "date": "2023-09-28",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/117789638"
+                    },
+                    {
+                        "title": "С высоты хэд оф дизайна: советы руководителя департамента дизайна для карьерного роста",
+                        "date": "2023-09-14",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/117370105"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": "1",
+                "previewImageUrl": "https://example.com/preview/season1.png",
+                "episodes": [
+                    {
+                        "title": "10 вещей, которые должен знать каждый продуктовый дизайнер",
+                        "date": "2022-07-11",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/105784272"
+                    },
+                    {
+                        "title": "Как попросить зарплату, правильно подготовиться к собеседованию и правильно увольняться с HRBP Ozon Аленой Фарбанец",
+                        "date": "2022-07-04",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/105620080"
+                    },
+                    {
+                        "title": "Работать в темпе, как перестать соглашаться на чужие сроки и не выгореть с Community-менеджером в Ozon Егором Шугаевым",
+                        "date": "2022-06-27",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/105465978"
+                    },
+                    {
+                        "title": "Как дизайнеру взаимодействовать с менеджером по продукту и как продать свой дизайн с менеджером из Ozon Максимом Чуйковым",
+                        "date": "2022-06-20",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/105325343"
+                    },
+                    {
+                        "title": "Рассказываем не душно про исследования в дизайне с исследователем из МТС Кириллом Пановым",
+                        "date": "2022-06-14",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/105213082"
+                    },
+                    {
+                        "title": "Как войти в дизайн сегодня и не выгореть",
+                        "date": "2022-05-30",
+                        "externalLink": "https://music.yandex.ru/album/22642165/track/104923309"
+                    }
+                ]
+            }
+        ]
+    },
+    "speaking": {
+        "title": "Говорим",
+        "description": "Интервью и выступления наших ребят на различных мероприятих",
+        "meetups": [
+            {
+                "titleImageUrl": "https://example.com/meetup/image1.jpg",
+                "subtitle": "Менеджер и дизайнер: драма длиною в продукт",
+                "externalLink": "https://youtu.be/PVSq1ZJWapI"
+            },
+            {
+                "titleImageUrl": "https://example.com/meetup/image2.jpg",
+                "subtitle": "Менеджер и дизайнер: драма длиною в продукт",
+                "externalLink": "https://www.youtube.com/watch?v=FiqtBduNcEc"
+            }
+        ],
+        "topics": [
+            {
+                "title": "People Tech Ask",
+                "videos": [
+                    {
+                        "title": "Николай Гузев",
+                        "subtitle": "Руководитель отдела «Опыт продавца»",
+                        "externalLink": "https://www.youtube.com/watch?v=vT-xHNT9srQ&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=11&pp=iAQB",
+                        "previewImageUrl": "https://example.com/previews/preview_global_news.png"
+                    },
+                    {
+                        "title": "Виктор Теплов",
+                        "subtitle": "Ведущий продуктовый дизайнер",
+                        "externalLink": "https://www.youtube.com/watch?v=tlU5R0lUSYo&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=5&pp=iAQB",
+                        "previewImageUrl": ""
+                    },
+                    {
+                        "title": "Кирилл Семушин",
+                        "subtitle": "Руководитель департамента дизайна",
+                        "externalLink": "https://www.youtube.com/watch?v=iGGkvnmYYTw&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=7&t=3s&pp=iAQB",
+                        "previewImageUrl": ""
+                    },
+                    {
+                        "title": "Никита Новоселов",
+                        "subtitle": "Руководитель отдела «Опыт покупателя»",
+                        "externalLink": "https://youtu.be/QhPVO754nRc",
+                        "previewImageUrl": ""
+                    }
+                ]
+            },
+            {
+                "title": "Нас звали выступать",
+                "videos": [
+                    {
+                        "title": "Сергей Самойлов",
+                        "subtitle": "Дизайн-процесс как драйвер изменений",
+                        "externalLink": "https://www.youtube.com/watch?v=UXgVZNUuFQk&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=6&t=911s&pp=iAQB",
+                        "previewImageUrl": "https://example.com/previews/preview_global_news.png"
+                    },
+                    {
+                        "title": "Кирилл Семушин",
+                        "subtitle": "Дискуссионная игра: нам надо об этом поговорить",
+                        "externalLink": "https://www.youtube.com/watch?v=2pDgBp4fkmc&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=8&t=1904s&pp=iAQB",
+                        "previewImageUrl": ""
+                    },
+                    {
+                        "title": "Кира Калимулина, Никита Поднебесный",
+                        "subtitle": "Как правильно показывать экран ошибки и пустых состояний",
+                        "externalLink": "https://www.youtube.com/watch?v=83aT71gDRuo&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=9&pp=iAQB",
+                        "previewImageUrl": ""
+                    },
+                    {
+                        "title": "Кира Калимулина",
+                        "subtitle": "Когда ты первый UX-редактор в компании",
+                        "externalLink": "https://www.youtube.com/watch?v=5zGJ7sXIe3Y&list=PLaYNFbPr2bsLuSX8kwKrN2NHw1grDoqig&index=10&t=1s&pp=iAQB",
+                        "previewImageUrl": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
